@@ -11,4 +11,4 @@ async function execute(address) {
     }
 }
 
-module.exports = execute();
+module.exports = execute;
