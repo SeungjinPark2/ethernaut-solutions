@@ -21,6 +21,7 @@ program
     .option('--args <strings...>', 'arguments of constructor')
     .action(async (name, options) => {
         await deploy(name, options.args);
+        process.exit(0);
     });
 
 program
@@ -30,6 +31,7 @@ program
     .requiredOption('--address <string>', 'address of deployed target contract')
     .action(async (name, options) => {
         await execute(name, options.address);
-    })
+        process.exit(0);
+    });
 
 program.parse();
