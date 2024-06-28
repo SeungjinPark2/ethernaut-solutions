@@ -6,6 +6,7 @@
     "web3": "^4.4.0"
   },
   "scripts": {
-    "build": "truffle compile"
+    "build": "truffle compile",
+    "start": "node scripts/index.js"
   }
 }
