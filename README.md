@@ -42,7 +42,7 @@ npm run start -- deploy CoinFlipHack --args 0x6993Db3723F321003f8a047DB7E49fAcd0
 npm run start -- execute CoinFlip --args 0x6993Db3723F321003f8a047DB7E49fAcd0ce6390
 ```
 
-# current status table
+## current status table
 
 | #   | name             | resolved | blog post |
 | :-- | ---------------- | -------- | --------- |
