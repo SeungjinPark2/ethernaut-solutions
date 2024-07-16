@@ -43,38 +43,39 @@ npm run start -- execute CoinFlip --args 0x6993Db3723F321003f8a047DB7E49fAcd0ce6
 ```
 
 ## current status table
+Resolved means it's done to writing contract & execution script.
 
-| #   | name             | resolved | blog post |
-| :-- | ---------------- | -------- | --------- |
-| 00  | hello ethernaut  | no need  | no need   |
-| 01  | Fallback         | no need  |           |
-| 02  | Fallout          | no need  |           |
-| 03  | CoinFlip         | done     |           |
-| 04  | Telephone        | done     |           |
-| 05  | Token            | done     |           |
-| 06  | Delegation       | done     |           |
-| 07  | Force            |          |           |
-| 08  | Vault            |          |           |
-| 09  | King             | done     |           |
-| 10  | Re-entrancy      | done     |           |
-| 11  | Elevator         |          |           |
-| 12  | Privacy          |          |           |
-| 13  | GateKeeperOne    |          |           |
-| 14  | GateKeeperTwo    |          |           |
-| 15  | NaughtCoin       |          |           |
-| 16  | Preservation     |          |           |
-| 17  | Recovery         |          |           |
-| 18  | MagicNumber      |          |           |
-| 19  | Ailen Code       |          |           |
-| 20  | Denial           |          |           |
-| 21  | Shop             |          |           |
-| 22  | Dex              |          |           |
-| 23  | Dex Two          |          |           |
-| 24  | Puzzle Wallet    |          |           |
-| 25  | Motorbike        |          |           |
-| 26  | DoubleEntryPoint |          |           |
-| 27  | Good Samaritan   |          |           |
-| 28  | GateKeeperThree  |          |           |
-| 29  | Switch           |          |           |
-| 30  | Higher Order     |          |           |
-| 31  | Stake            |          |           |
+| #   | name             | resolved | blog post                                                                                         |
+| :-- | ---------------- | -------- | ------------------------------------------------------------------------------------------------- |
+| 00  | hello ethernaut  | won't do | won't do                                                                                          |
+| 01  | Fallback         | won't do | [link](https://velog.io/@tmdwls3364/ethernaut-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-01-Fallback)   |
+| 02  | Fallout          | won't do | won't do                                                                                          |
+| 03  | CoinFlip         | done     | [link](https://velog.io/@tmdwls3364/ethernaut-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-03-CoinFlip)   |
+| 04  | Telephone        | done     | [link](https://velog.io/@tmdwls3364/ethernaut-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-04-Telephone)  |
+| 05  | Token            | done     | [link](https://velog.io/@tmdwls3364/ethernaut-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-05-Token)      |
+| 06  | Delegation       | done     | [link](https://velog.io/@tmdwls3364/ethernaut-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-06-Delegation) |
+| 07  | Force            | done     |                                                                                                   |
+| 08  | Vault            | won't do |                                                                                                   |
+| 09  | King             | done     |                                                                                                   |
+| 10  | Re-entrancy      | done     |                                                                                                   |
+| 11  | Elevator         | done     |                                                                                                   |
+| 12  | Privacy          |          |                                                                                                   |
+| 13  | GateKeeperOne    |          |                                                                                                   |
+| 14  | GateKeeperTwo    |          |                                                                                                   |
+| 15  | NaughtCoin       |          |                                                                                                   |
+| 16  | Preservation     |          |                                                                                                   |
+| 17  | Recovery         |          |                                                                                                   |
+| 18  | MagicNumber      |          |                                                                                                   |
+| 19  | Ailen Code       |          |                                                                                                   |
+| 20  | Denial           |          |                                                                                                   |
+| 21  | Shop             |          |                                                                                                   |
+| 22  | Dex              |          |                                                                                                   |
+| 23  | Dex Two          |          |                                                                                                   |
+| 24  | Puzzle Wallet    |          |                                                                                                   |
+| 25  | Motorbike        |          |                                                                                                   |
+| 26  | DoubleEntryPoint |          |                                                                                                   |
+| 27  | Good Samaritan   |          |                                                                                                   |
+| 28  | GateKeeperThree  |          |                                                                                                   |
+| 29  | Switch           |          |                                                                                                   |
+| 30  | Higher Order     |          |                                                                                                   |
+| 31  | Stake            |          |                                                                                                   |
